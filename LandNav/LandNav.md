@@ -53,11 +53,26 @@ How to orientate yourself, what the map can tell you and how to gain an advantag
 #### General
 ##### Different Map Layers
 
+![Map has two layers](img/LN_terrainlayers.png)
+
 ##### Natural Features (of Military Significance)
+
+
 
 ##### Manmade Features
 
+
+
 ##### Points of Reference
+
+![Cities](img/obj/LN_ref_city.png)
+Hospital, Church, Gas Station
+
+![WaterPower](img/obj/LN_ref_power2.png)
+Power Generation, in this case Wave Power
+
+![WindPower](img/obj/LN_ref_wind.png)
+Power Generation via Wind, Communication Tower
 
 #### Contour Lines of Topographic Maps
 
@@ -95,13 +110,14 @@ Reasonably level ground bordered on the sides by higher ground which usually has
 ![Valley on the map](img/terrain/LN_valley_map.png)
 
 ##### Draw
-Siumilar to a valley, except that normally it is less developed stream course in which there is generally no level ground and, therefore, little or no maneuver room. The groud slopes upward on each side and toward the head of the draw.
+Similar to a valley, except that normally it is less developed stream course in which there is generally no level ground and, therefore, little or no maneuver room. The groud slopes upward on each side and toward the head of the draw.
 
 ![Draw](img/terrain/LN_draw.png)
 
 ![Draw on the map](img/terrain/LN_draw_map.png)
 
 
+The "Arrow" made by the contourlines on a Draw is pointing **towards** the Highpoint
 
 ##### Spur
 A usually short, continuously sloping line of higher ground, normally jutting out from the side of a ridge.
@@ -110,6 +126,8 @@ A spur could be considered as the high ground that helps create a draw.
 ![Spur](img/terrain/LN_spur.png)
 
 ![Spur on the map](img/terrain/LN_spur_map.png)
+
+The "Arrow" made by the contourlines on a Spur is pointing **away** the Highpoint
 
 ---
 
