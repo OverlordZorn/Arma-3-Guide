@@ -203,18 +203,23 @@ Adviced to use with the high accuracy of a 10 Digit Grid System.
 #### Features of Map Tool
 
 ##### Leading Line
+
 A long red Line that runs long the lengh of the map
 
 ##### Grid Tool
+
 Two rulers perpendicular (90°) to each other - used for more detailed GridReferences
 
 ##### Ruler
-Used To messure Distances on the Map
+
+Used to messure distance on the Map, does not take into account a possible evelation difference.
+
+On the Small Map Tools, one Unit of Length translates as 1.000 meters, further divided into 100m steps as well as 10m steps.
+
 
 ##### Center
+
 The Map tool Pivots around this center point
-
-
 
 #### Moving the Map tool
 
@@ -325,7 +330,7 @@ Due to the earth's rotation all stars but Polaris will have trail on this photog
 
 ![Polaris in the Game](img/LN_Polaris_IG.png)
 
-[![Video of Polaris in ArmA 3 with the Stars circling around it](http://img.youtube.com/vi/MrnKLTmP7JI/0.jpg)](http://www.youtube.com/watch?v=MrnKLTmP7JI "Polaris in ArmA 3")
+[Video of Polaris in ArmA 3 with the Stars circling around it](http://www.youtube.com/watch?v=MrnKLTmP7JI "Polaris in ArmA 3")
 
 
 
