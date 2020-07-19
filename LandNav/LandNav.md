@@ -80,14 +80,15 @@ Power Generation via Wind, Communication Tower
 
 #### Contour Lines of Topographic Maps
 
-* Red Line 5 m apart 
+* Each Line represents a certain height Above Sea Level
 
-* Each Line represents a standard height Above Sea Level
+* Every fifth line is Red for easier Reading
 
-* When contour lines are closer togehter, this means that the gradient is steep. The closer the lines, the steeper the gradient.
+* It is always helpful to read Terrain from the Highpoint downwards
 
-* When contour lines are further apart, the terrain is flatter.
+* When contour lines are closer togehter, this means that the gradient is steep. The closer the lines, the steeper the gradient
 
+* When contour lines are further apart, the terrain is flatter
 
 ##### Hill
 A point or small area of high ground.
