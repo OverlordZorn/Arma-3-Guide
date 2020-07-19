@@ -57,21 +57,26 @@ How to orientate yourself, what the map can tell you and how to gain an advantag
 
 ##### Natural Features (of Military Significance)
 
+![Natural Features](img/LN_Natural.png)
 
+![Natural Features on the Map](img/LN_Natural_map.png)
 
 ##### Manmade Features
 
-
+![Manmade Features on the Map](img/LN_ManMade1.png)
 
 ##### Points of Reference
 
 ![Cities](img/obj/LN_ref_city.png)
+
 Hospital, Church, Gas Station
 
 ![WaterPower](img/obj/LN_ref_power2.png)
+
 Power Generation, in this case Wave Power
 
 ![WindPower](img/obj/LN_ref_wind.png)
+
 Power Generation via Wind, Communication Tower
 
 #### Contour Lines of Topographic Maps
@@ -308,7 +313,7 @@ Due to the earth's rotation all stars but Polaris will have trail on this photog
 
 ![Polaris in the Game](img/LN_Polaris_IG.png)
 
-![Video of Polaris and the Constellation Ingame](https://www.youtube.com/watch?v=MrnKLTmP7JI)
+[![Video of Polaris in ArmA 3 with the Stars circling around it](http://img.youtube.com/vi/MrnKLTmP7JI/0.jpg)](http://www.youtube.com/watch?v=MrnKLTmP7JI "Polaris in ArmA 3")
 
 
 
