@@ -20,6 +20,7 @@ How to orientate yourself, what the map can tell you and how to gain an advantag
         - [Grid Coordinates](#grid-coordinates)
         - [Digits](#digits)
         - [Keypad Reference](#keypad-reference)
+      - [Grid Vectors](#grid-vectors)
     - [The Map Tools (ACE)](#the-map-tools-ace)
       - [Features of Map Tool](#features-of-map-tool)
         - [Leading Line](#leading-line)
@@ -33,7 +34,10 @@ How to orientate yourself, what the map can tell you and how to gain an advantag
       - [Degree](#degree)
       - [Mils](#mils)
       - [Some Mods' Compass will only update on the Map once you took it in your hand (Used with "K")](#some-mods-compass-will-only-update-on-the-map-once-you-took-it-in-your-hand-used-with-k)
-    - [GPS, DAGER and MicroDaggr](#gps-dager-and-microdaggr)
+    - [GPS, DAGR and MicroDAGR](#gps-dagr-and-microdagr)
+      - [GPS (and Drone Terminals)](#gps-and-drone-terminals)
+      - [DAGR](#dagr)
+      - [MicroDAGR](#microdagr)
     - [Binoculars (ACE)](#binoculars-ace)
       - [MIL-DOT Ranging](#mil-dot-ranging)
     - [Your own Eyes](#your-own-eyes)
@@ -108,12 +112,15 @@ Secound set of number designate the latitute, the vertical distance up the map. 
 When delivering Grid Coorinates verbally, the two sets of digits are being seperated with "break"
 
 ##### Digits
- The more Digits used, the more accurate a position can be determined.
+The more Digits used, the more accurate a position can be determined.
+```
+ 2 Digits: 0 break 0 = 10000m by 10000m
  4 Digits: 00 break 00 = 1000m by 1000m 
  6 Digits: 000 break 000 = 100m by 100m 
  8 Digits: 0000 break 0000 = 10m by 10m 
 10 Digits: 00000 break 00000 = 1m by 1m
-
+```
+In Arma, the Map Grid scales with the Level of Zoom from 2 Digits up to 6 Digits.
 
 ##### Keypad Reference
 In certain circumstances, it is tideous to acquire the more detailed Digits needed for a 8 or 10 Digit Coordinate.
@@ -135,6 +142,18 @@ Example:
 123 break 123 key 5 - Center of the GridSquare.
 123 break 123 key 1 - Bottom Left.
 123 break 123 key 7 - Top Left.
+
+
+#### Grid Vectors
+
+It is possible to Create a Grid Vector between two Points.
+
+"Grid Vector -005 break +010"
+
+Rarely needed, but can be a way to communicate relative coordinates. For example by a Forward Observer to coordinate Fire Support. Useage of Milrads and Distance 
+Adviced to use with the high accuracy of a 10 Digit Grid System.
+
+
 
 ---
 
@@ -175,10 +194,51 @@ Another unit of mesurement found on a compass, used mainly by militaries in arti
 
 ---
 
-### GPS, DAGER and MicroDaggr
+### GPS, DAGR and MicroDAGR
+
+Pretty Simple and Boring for our Class but for completionsake
+
+#### GPS (and Drone Terminals)
+- Current Position in a 6 Digit Grid Coordnate
+- Altitude Above Sea Level 
+- Bearing in Degrees (0°-360°)
+- Access to the MiniMap Panel.
+
+#### DAGR
+Older Variant of the DAGR System:
+- Current Position in a **8 Digit** Grid Coordnate
+- Altitude Above Sea Level
+- **Current TravelSpeed in KpH**
+- Bearing in Degrees (0°-360°) or **MILS (0-6400)**
+- **No access** to the MiniMap Panel.
+- **Waypoint Navigation System: Bearing to Waypoint and Distance** 
+
+#### MicroDAGR
+Older Variant of the DAGR System:
+- Current Position in a **10 Digit** Grid Coordnate
+- Altitude Above Sea Level
+- Current TravelSpeed in KpH
+- Bearing in Degrees (0°-360°) or MILS (0-6400)
+- No access to the MiniMap Panel.
+- Waypoint Navigation System: Bearing to Waypoint and Distance 
+- **Comes with its own Graphical MAP**
+
 
 ### Binoculars (ACE)
+The Basic Binoculars in ACE come with MIL-DOT Markings.
+
+Careful: Binocular and Periscope Mil come "10 Mils per Dot" scale 
+while most if not all Rifle Scopes will have a "1 Mil per Dot" scale.
+
 #### MIL-DOT Ranging
+
+General MilDot Formular:
+(Object Height X 1000) / Messured Mil-Dots = Distance
+
+With Binoculars:
+(Object Height x 1000) / Messured Mil-Dots x10 = Distance
+
+
 
 ### Your own Eyes
 
