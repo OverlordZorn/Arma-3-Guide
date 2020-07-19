@@ -27,7 +27,6 @@ How to orientate yourself, what the map can tell you and how to gain an advantag
         - [Grid Tool](#grid-tool)
         - [Ruler](#ruler)
         - [Center](#center)
-        - [Compass](#compass)
       - [Moving the Map tool](#moving-the-map-tool)
       - [Calculating a Route Between two Points](#calculating-a-route-between-two-points)
     - [The Compass](#the-compass)
@@ -197,18 +196,27 @@ Adviced to use with the high accuracy of a 10 Digit Grid System.
 ---
 
 ### The Map Tools (ACE)
+
+![Image of the Maptools](img/LN_Maptools.png)
+
 #### Features of Map Tool
+
 ##### Leading Line
 A long red Line that runs long the lengh of the map
+
 ##### Grid Tool
 Two rulers perpendicular (90°) to each other - used for more detailed GridReferences
+
 ##### Ruler
 Used To messure Distances on the Map
+
 ##### Center
 The Map tool Pivots around this center point
-##### Compass
+
+
 
 #### Moving the Map tool
+
 A) Cursor over the MapTool, hold **Left Mouse Button** to drag the Tool over the Map
 
 B) To Rotate the Map Tool, use **Left Alt Key** and **LMB** on anything outside the Maptools Compass
@@ -224,6 +232,9 @@ B) To Rotate the Map Tool, use **Left Alt Key** and **LMB** on anything outside 
 ---
 
 ### The Compass
+
+![Image of a Compass](img/LN_Compass.png)
+
 #### Degree
 A compass is divided into 360 degress and is the most common unit of measurement
 #### Mils
