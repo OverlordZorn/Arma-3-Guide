@@ -43,11 +43,6 @@ How to orientate yourself, what the map can tell you and how to gain an advantag
     - [Your own Eyes](#your-own-eyes)
       - [Path of the Sun](#path-of-the-sun)
       - [Polaris](#polaris)
-      - [Points of Reference](#points-of-reference-1)
-  - [Reading the Map](#reading-the-map)
-    - [Messuring D](#messuring-d)
-    - [Objects of References](#objects-of-references)
-    - [Contour Lines](#contour-lines)
   - [Sources and References](#sources-and-references)
 
 ---
@@ -69,13 +64,12 @@ How to orientate yourself, what the map can tell you and how to gain an advantag
 
 * Red Line 5 m apart 
 
-* Each Line represents a standard hight above sea Lines
+* Each Line represents a standard height Above Sea Level
 
 * When contour lines are closer togehter, this means that the gradient is steep. The closer the lines, the steeper the gradient.
 
 * When contour lines are further apart, the terrain is flatter.
 
-* Hilltops
 
 ##### Hill
 A point or small area of high ground.
@@ -244,22 +238,33 @@ With Binoculars:
 
 #### Path of the Sun
 
+![Solargraph](/LandNav/img/LN_solar.jpg)
+
+The picture above is a solargraph. 
+
+Simply said, it is an analog photograph taken over the duration of one year. 
+The sun has burned itself into the negative.
+
+What you can see here therefore, is the path of the sun. At its lowest during the winter and at its hightest during the summer.
+
+Depending on your geographical position it might vary a bit but the general idea stays the same.
+
+The Sun rises in the east, will be at its highest point in the south and goes down in the west.
+
+This method might not give yourself the most accurate direction but, when you stand there with nothing in your hands, you can use it for general orientation.
+
+
 #### Polaris
 
-#### Points of Reference
+Commonly known as the North Star or Pole Star, is the brightest star in the constellation of Ursa Minor.
 
+It is very close to the north celestial pole, making it the current nothern pole star.
 
-## Reading the Map
+![Polaris](img/LN_polaris.jpg)
+(Very) Long Exposure Time Photograph of the Nothern Sky. 
+Due to the earth's rotation all stars but Polaris will have trail on this photograph. 
 
-
-### Messuring D
-
-### Objects of References
-
-### Contour Lines
-
-
-
+![Ursa minor and Ursa major](img/LN_constellation.jpg)
 
 
 
