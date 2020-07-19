@@ -74,32 +74,32 @@ How to orientate yourself, what the map can tell you and how to gain an advantag
 A point or small area of high ground.
 When on a hilltop, the ground slopes down in all directions.
 
-[Hill](img/terrain/LN_Hill.png)
-[Hill on the Map](img/terrain/LN_Hill_map.png)
+![Hill](img/terrain/LN_Hill.png)
+![Hill on the Map](img/terrain/LN_Hill_map.png)
 
 ##### Ridge
 
 A line of high ground with height variations along its crest.
 The ridge is not simply a line of hills; allpoints of the ridge crest are higher than the ground on both sides of the ridge.
 
-[Ridge](img/terrain/LN_ridge.png)
+![Ridge](img/terrain/LN_ridge.png)
 
-[Ridge on the map](img/terrain/LN_ridge_map.png)
+![Ridge on the map](img/terrain/LN_ridge_map.png)
 
 ##### Valley
 
 Reasonably level ground bordered on the sides by higher ground which usually has maneurver room within its confines.
 
-[Valley](img/terrain/LN_valley.png)
+![Valley](img/terrain/LN_valley.png)
 
-[Valley on the map](img/terrain/LN_valley_map.png)
+![Valley on the map](img/terrain/LN_valley_map.png)
 
 ##### Draw
 Siumilar to a valley, except that normally it is less developed stream course in which there is generally no level ground and, therefore, little or no maneuver room. The groud slopes upward on each side and toward the head of the draw.
 
-[Draw](img/terrain/LN_draw.png)
+![Draw](img/terrain/LN_draw.png)
 
-[Draw on the map](img/terrain/LN_draw_map.png)
+![Draw on the map](img/terrain/LN_draw_map.png)
 
 
 
@@ -107,9 +107,9 @@ Siumilar to a valley, except that normally it is less developed stream course in
 A usually short, continuously sloping line of higher ground, normally jutting out from the side of a ridge.
 A spur could be considered as the high ground that helps create a draw.
 
-[Spur](img/terrain/LN_spur.png)
+![Spur](img/terrain/LN_spur.png)
 
-[Spur on the map](img/terrain/LN_spur_map.png)
+![Spur on the map](img/terrain/LN_spur_map.png)
 
 ---
 
