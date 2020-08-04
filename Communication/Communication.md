@@ -17,21 +17,24 @@ How to use and what can they do
 |Red| Infantry | PNR-1000A | 30-512MHz | 2 km Range|![Red Rifleman Radio](img/red-1-rf.jpg)|
 |Red|SquadLeader | AN/PRC148-JEM | 30-512 MHz | 5 km Range|![Red Leader Radio](img/red-2-sql.jpg)|
 |Red|LongRange|MR3000|30-87 MHz|20 km as Backpack / 30 km when fixed to a Vehicle|![Red LongRange Radio](img/red-3-lr2.jpg)|
-|Red|Airborne|MR6000L|30-87 MHz|40 km|![Red Airborne Radio](img/red-4-air-164.jpg+)|
+|Red|Airborne|MR6000L|30-87 MHz|40 km|![Red Airborne Radio](img/red-4-air-164.jpg)|
 |Green|Infantry| RF-7800S-TR | 30-512MHz | 2 km Range|![Green Rifleman Radio](img/green-1-rf.jpg)|
 |Green|SquadLeader | AN/PRC-152 | 30-512 MHz | 5 km Range|![Green Leader Radio](img/green-2-sql.jpg)|
 |Green|LongRange| RT-1523G | 30-87 MHz | 20 km as Backpack / 30 km when fixed to a Vehicle|![Green LongRange Radio](img/green-3-lr.jpg)|
-|Green|Airborne | AN/ARC-164 | 30-87 MHz | 40 km Range|
-![Green Airborne Radio](img/green-4-air-mr6000l.jpg)|
+|Green|Airborne | AN/ARC-164 | 30-87 MHz | 40 km Range|![Green Airborne Radio](img/green-4-air-mr6000l.jpg)|
+
 
 #### Faction Encyrption
 
-
+A Side's/Faction's Radio can only Communicate with a Radio of the same Faction as they Data is encrypted.
+When you Pick up a Radio of an Hostile Player in an PvP Environment, you can Listen in on their Communication with their Radio. 
 
 
 ### How to Use the Radios
 
 
+
+#### Main Channel
 
 
 
