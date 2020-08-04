@@ -1,6 +1,6 @@
 # How to Read the Map and Gain an Advantage
 
-How to orientate yourself, what the map can tell you and how to gain an advantage.
+How to orientate yourself, what the map can tell you and how to use the tools at your disposal.
 
 - [How to Read the Map and Gain an Advantage](#how-to-read-the-map-and-gain-an-advantage)
   - [Tools of the Trade](#tools-of-the-trade)
