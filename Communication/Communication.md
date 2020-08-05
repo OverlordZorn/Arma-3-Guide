@@ -29,6 +29,7 @@ How to use and what can they do
 A Side's/Faction's Radio can only Communicate with a Radio of the same Faction as they Data is encrypted.
 When you Pick up a Radio of an Hostile Player in an PvP Environment, you can Listen in on their Communication with their Radio. 
 
+---
 
 ### How to Use the Radios
 
@@ -102,6 +103,8 @@ Doing this as a Rifleman in a squad is very bad, as the people around you are al
 
 On the other hand, being the Squadleader or dedicated Radio Operator, it can be a reasonable decision to set your Long Range Radio on Speaker to keep people around you updated on what is going on in the Battle Field.
 
+---
+
 ## Radio Dicipline or how to communicate without causing headaches
 
 ### Core concepts of Radio Voice Communication
@@ -134,9 +137,9 @@ Being familiar with the standard formats of SITREPs, CASREPs, contact reports, e
 
 ## Sources
 
-[Official Task Force Arma 3 Radio Wiki GitHub](https://github.com/michail-nikolaev/task-force-arma-3-radio/wiki/README_EN)
+[Official TFAR Wiki // GitHub](https://github.com/michail-nikolaev/task-force-arma-3-radio/wiki/README_EN)
 
 [Communication // Dslyecxi's Tactics, Techniques & Procedures for ArmA 3](https://ttp3.dslyecxi.com/communication/)
 
-[Common Procedure Words](https://en.wikipedia.org/wiki/Procedure_word)
+[Common Procedure Words // Wiki](https://en.wikipedia.org/wiki/Procedure_word)
 
