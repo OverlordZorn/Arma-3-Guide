@@ -2,7 +2,11 @@
 
 How to Use the Radios and their Limits and how to Communicate Properly
 
+
+To ensure your message reaches the destination and will be understood by the recipient.
+
 ## The Technology of TFAR
+
 How to use and what can they do
 
 
@@ -28,6 +32,22 @@ How to use and what can they do
 
 A Side's/Faction's Radio can only Communicate with a Radio of the same Faction as they Data is encrypted.
 When you Pick up a Radio of an Hostile Player in an PvP Environment, you can Listen in on their Communication with their Radio. 
+
+#### The Jamming of the Radio Signal
+
+Within Antistasi, we utilize a feature that comes with TFAR, which creates the simulation of an Jamming Signal.
+
+This means that, if an Radiotower is attached to an hostile Point of Interest, it will start to Jam the Radiosignal within a certain Range of it.
+The closer you get to that Radiotower, the worse the Signalstrengh and therefore the Range of your Radio will become.
+
+This affects Incoming as well as Outgoing Transmissions.
+
+#### Signalloss due to the Environment and Terrain
+
+Radio Signals work on a "Line of Sight" Basis.
+
+Terrain like Mountains or being in a Valley will Block your Signal completely, Vegetation or Constructions can reduce and hinder your Signal Strength and Range.
+
 
 ---
 
@@ -104,35 +124,90 @@ Doing this as a Rifleman in a squad is very bad, as the people around you are al
 On the other hand, being the Squadleader or dedicated Radio Operator, it can be a reasonable decision to set your Long Range Radio on Speaker to keep people around you updated on what is going on in the Battle Field.
 
 ---
+---
+---
 
 ## Radio Dicipline or how to communicate without causing headaches
 
-### Core concepts of Radio Voice Communication
 
-**Brevity** 
-It is the art of saying a lot with few words. One must alwys strive to be frugal on the number of words needed to convey a message - there's a lot that needs to be said by many people in a combat.
+### Communication Theroy
 
-**Clarity**
-In Addition to brevity, one must strive to be very clear in their language. This requires the usage of defined tactical language terms, brevity words, aclear and loud voice, and so forth. Articulation and repetition of critical statements is helpful as well.
+![Chart of Communication Theory](img/CommTheory.png)
 
-**Confirmation and read-back**
+The **Sender** has Information, Order, ... he wants to deliver to the **Reciever**.
+
+The Sender has to **"Encode"** this Information in such a way, that the Reciever, can **Decode** the Message and understand the Information as the Sender has intendend.
+
+To Ensure the Receiver has processed the Information in an sufficient way, he needs to **give Feedback** to the Sender so he can **Confirm** the Message has arrived completely. 
+
+
+Radio Communication can be disrupted by **Noice** during the Transmission on the Sending or Recieving Side.
+
+But the Message can also be disrupted by **Encoding** or **Using the wrong words** and making it difficult for the Receiver to **Decode** the Message.
+
+This can happen by using unfamiliar words or phrases. By using certain phrases in a wrong manner. By speaking to fast, or by speaking to much.
+
+Interuptive Radiochatter on the same Network will just increase this disruption.
+
+Therefore it is highly important to send messages with few, well known words and phrases.
+
+
+### Core concept of Communication applied 
+
+#### Brevity 
+It is the art of saying a lot with few words. One must alwys strive to be frugal on the number of words needed to convey a message - there's a lot that needs to be said by many people in a combat sitation.
+
+#### Clarity
+In Addition to brevity, one must strive to be very clear in their language. This requires the usage of defined tactical language terms, brevity words, a clear and loud voice, and so forth. Articulation and repetition of critical statements is helpful as well.
+
+#### Confirmation and read-back
 It's important to confirm that you heard orders, so that leaders know that they are being understood. Additionally, it can be helpful to provide a read back of an order to confirm that you fully understand what is being asked of you. This way the person giving the orders can confirm that you heard them correctly.
 
-**Alerting and identifying**
+#### Alerting and identifying
 Alerting is the act of using key words to get the attention of people before you start saying something important. 
 For example, a squad leader might say "Squad, listen up!". 
 
 Identifying is the act of saying who you are and who you're trying to contact when speaking over a radio. This reduces confusion and alerts people that someone is attempting to tell them something.
 For example, a SQL saying "Alpha, this is Bravo, be advised, you have enemy infantry on your west flank" is utilizing the "alert/identify concept". 
 
-When things are hectic, it's ofte n a good idea to state your callsign and who you are trying to reach, then allow them to answer you when they're able.
+When things are hectic, it's often a good idea to state your callsign and who you are trying to reach, then allow them to answer you when they're able.
 Example: "Alpha, this is Bravo" - Waiting until they say "Bravo, this is Alpha, send it" or short "Bravo - send it" before continuing with your full message.
 
-**Usage of standard operating procedures and tactical language**
+#### Usage of standard operating procedures and tactical language
 Being familiar with the standard formats of SITREPs, CASREPs, contact reports, etc, as well as being familiar with the wide range of brevity word and tactical terms, helps to ensure that communication is easy to understand by all involved participants.
 
+---
 
-### 
+### Procedures & Rules
+
+#### Alert and Identification & How to Initiate a Call
+
+Regardless of what communication protocol you use, it is importaint tomaintain a certain radio procedure to keep things running smooth and organized.
+
+Hearing someone say over the command net that there are "Enemy Infantry, bearing 210!" is fairly worthless for people on CommandNet.
+
+**If you are communicating across the radio, you initiate each transmission with who you're talking to, followed by your own callsign, wait for an acknowledgment, and then send your message.** 
+
+####
+
+|Step | Example|
+|:---:|---:|
+|**Start the call**|*Alpha Squad **for** Command, **how copy**? **Over***|
+|**Awnser the Call**|*Command **this is** Alpha, **Send it**! Over*|
+|**Message**|*Alpha, **be advised**. Recon spotted Hostile Infantry SquadSize ahead, Reference Farm, **how Copy**? Over*|
+|**Read Back**|*Alpha **Copies**, Hostile Infantry Ahead by Farm. Over*|
+|**Confirm Read Back and end of call**|_**Good Copy**, Command **Out**_|
+
+### Procedure Words
+
+These are the most common "Procedure Words", phrases with a predefined meaning and commonly used in the gaming environment.
+
+Many of these terms will 
+
+
+This simple procedure keeps the Radio Comms organized and allows for the various elements to know when they are specifically being talked to.
+
+Not waiting for an acknowledgment often results in a repeated message being requred, since the recieving unit may have been to busy to listen to the message inteded for them.
 
 
 ## Sources
@@ -140,6 +215,7 @@ Being familiar with the standard formats of SITREPs, CASREPs, contact reports, e
 [Official TFAR Wiki // GitHub](https://github.com/michail-nikolaev/task-force-arma-3-radio/wiki/README_EN)
 
 [Communication // Dslyecxi's Tactics, Techniques & Procedures for ArmA 3](https://ttp3.dslyecxi.com/communication/)
+    Absolutely Excellent Source of Knowledge
 
 [Common Procedure Words // Wiki](https://en.wikipedia.org/wiki/Procedure_word)
 
