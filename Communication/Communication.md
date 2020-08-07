@@ -7,7 +7,7 @@ How to use the radios, their limits, and how to communicate properly to ensure y
     - [The Radio's](#the-radios)
       - [Faction Encyrption](#faction-encyrption)
       - [The Jamming of the Radio Signal](#the-jamming-of-the-radio-signal)
-      - [Signalloss due to the Environment and Terrain](#signalloss-due-to-the-environment-and-terrain)
+      - [Signal loss due to the Environment and Terrain](#signal-loss-due-to-the-environment-and-terrain)
     - [How to Use the Radios](#how-to-use-the-radios)
       - [Buttons](#buttons)
       - [Channels](#channels)
@@ -77,7 +77,7 @@ The closer you get to that radio tower, the worse the signal strengh and therefo
 
 This affects incoming as well as outgoing transmissions.
 
-#### Signalloss due to the Environment and Terrain
+#### Signal loss due to the Environment and Terrain
 
 Radio signals work on a "line of sight" basis.
 
@@ -310,14 +310,14 @@ This simple procedure keeps the radio comms organized and allows for the various
 |Radio Check| What is my signal strenth and readability? How do you hear me?|
 |Loud and Clear| Alternatives: Lima and Charlie, 5 by 5|
 |Weak Readable| Weak but readable|
-|Weak and Distrorted| unreadable|
+|Weak and Distrorted| Unreadable|
 |Words Twice| Communication is difficult. Please send every word, or group of words, twice.|
 |Unkown Station| The identity of the satation with whom I am attempting to establish communication.|
 
 
 ### Contact Report
 
-A Concat report consist of several key elements that must be presended in a specific order for it to be effective.
+A Contact report consist of several key elements that must be presended in a specific order for it to be effective.
 
 #### 1 - Alert
 Typically the word `Contact`. This sould be the frist thing when you spot the enemy. Gvies heads up for everyone.
