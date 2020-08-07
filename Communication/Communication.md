@@ -138,16 +138,18 @@ With the `Stereo Settings` button you can change on which side of your headset t
 Both sides, left or right.
 
 **It is highly recommended to always seperate your radio communication in an consistant manner**
-For example, I always have short range on the left ear and long range on the right ear.
+For example, I always have my SquadNet/SR on the left ear and the CommandNet/LR on the right ear.
 
 
 #### Additional Channel
 
 Most radios, with the exception of the rifleman radios, have  to option to also set up an additional channel.
 
-What you do is to set one of your channels as the additional channel. It will show itself as A2: 123 instead of C2: 123.
+This allows you to monitor 2 channels on a single radio.
 
-You can also use the stereo settings for your additional channel to seperate headphone output.
+You do this by setting one of your channels as the additional channel. It will show itself as `A2: 123` instead of `C2: 123`.
+
+You can and should adjust the stereo settings for your additional channel seperately. To do this you need to select the channel that is additional and then adjust the stereo settings of this one.
 
 Once you have set up the additional channel, you need to change your main channel to the desired channel.
 
@@ -171,7 +173,7 @@ Transmit Alt could be only useful if a SquadLead has their fireteams or sections
 #### Speaker
 You can set your radio to output the radio communication with its built in speaker. This means that people around you can hear what is being said on the frequency.
 
-Doing this as a rifleman in a squad is very bad, as the people around you are already on the same Radio, resulting in earrape.
+Doing this as a rifleman in a squad is very bad, as the people around you are already on the same Radio, resulting in pain and destruction.
 
 On the other hand, being the squadleader or dedicated radio operator, it can be a reasonable decision to set your long range radio on speaker to keep people around you updated on what is going on in the battle field.
 
