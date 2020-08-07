@@ -2,8 +2,34 @@
 
 How to Use the Radios and their Limits and how to Communicate Properly
 
-
 To ensure your message reaches the destination and will be understood by the recipient.
+
+- [Communication](#communication)
+  - [The Technology of TFAR](#the-technology-of-tfar)
+    - [The Radio's](#the-radios)
+      - [Faction Encyrption](#faction-encyrption)
+      - [The Jamming of the Radio Signal](#the-jamming-of-the-radio-signal)
+      - [Signalloss due to the Environment and Terrain](#signalloss-due-to-the-environment-and-terrain)
+    - [How to Use the Radios](#how-to-use-the-radios)
+      - [Buttons](#buttons)
+      - [Channels](#channels)
+      - [Stereo Settings](#stereo-settings)
+      - [Additional Channel](#additional-channel)
+      - [Speaker](#speaker)
+  - [Radio Dicipline or how to communicate without causing headaches](#radio-dicipline-or-how-to-communicate-without-causing-headaches)
+    - [Communication Theroy](#communication-theroy)
+    - [Core concept of Communication applied](#core-concept-of-communication-applied)
+      - [Brevity](#brevity)
+      - [Clarity](#clarity)
+      - [Confirmation and read-back](#confirmation-and-read-back)
+      - [Alerting and identifying](#alerting-and-identifying)
+      - [Usage of standard operating procedures and tactical language](#usage-of-standard-operating-procedures-and-tactical-language)
+    - [Procedures & Rules](#procedures--rules)
+      - [Alert and Identification & How to Initiate a Call](#alert-and-identification--how-to-initiate-a-call)
+      - [A Basic Radio Transimssion](#a-basic-radio-transimssion)
+    - [Procedure Words](#procedure-words)
+  - [Sources](#sources)
+
 
 ## The Technology of TFAR
 
@@ -88,9 +114,9 @@ The Channel selected or seen in the display is the Main Channel.
 
 The selected Main Channel is you will use to Transmit and Recieve Radio Traffic.
 
-To **Transmit** a message on your Short Range Radio you hold **Left Shift**.
+To **Transmit** a message on your Short Range Radio you hold **Left Caps Look**.
 
-To **Transmit** a message on your Long Range Radio you hold **L CTRL + Left Shift**.
+To **Transmit** a message on your Long Range Radio you hold **L CTRL + Left Caps Look**.
 
 #### Stereo Settings
 
@@ -132,20 +158,25 @@ On the other hand, being the Squadleader or dedicated Radio Operator, it can be 
 
 ### Communication Theroy
 
+The most basic groundwork in communcation and how it applies to a Radio Conversation.
+
 ![Chart of Communication Theory](img/CommTheory.png)
 
-The **Sender** has Information, Order, ... he wants to deliver to the **Reciever**.
+The **Sender** has Information, an Order, ... he wants to deliver to the **Reciever**.
 
-The Sender has to **"Encode"** this Information in such a way, that the Reciever, can **Decode** the Message and understand the Information as the Sender has intendend.
+The Sender has to **"Encode"** this Information in such a way, that the Reciever, can **"Decode"** the **Message** and understand the Information as the Sender has intendend.
 
-To Ensure the Receiver has processed the Information in an sufficient way, he needs to **give Feedback** to the Sender so he can **Confirm** the Message has arrived completely. 
+Encoding works by transforming the information you want to deliver by using Language, by forming a sentence to create the **Message**. 
 
+The important part here is how you phrase this message, what words you are using. You need to ensure that the other side can decode your message as you intended.
 
-Radio Communication can be disrupted by **Noice** during the Transmission on the Sending or Recieving Side.
+To Ensure the Receiver has processed the Information in an sufficient way, he needs to **give Feedback** to the Sender so he can **Confirm** the Message has arrived as intended. 
+
+Radio Communication can be disrupted by **Noice** during the Transmission. This can be a loud background on the Sending or Recieving Side, by a bad connection the message is being send on, someone talking over your message, or the reciever having to much chatter on their Squad Network.
 
 But the Message can also be disrupted by **Encoding** or **Using the wrong words** and making it difficult for the Receiver to **Decode** the Message.
 
-This can happen by using unfamiliar words or phrases. By using certain phrases in a wrong manner. By speaking to fast, or by speaking to much.
+This can happen by using unfamiliar words or phrases, By using certain phrases in a wrong manner, By speaking to fast, or by speaking to much.
 
 Interuptive Radiochatter on the same Network will just increase this disruption.
 
@@ -154,8 +185,13 @@ Therefore it is highly important to send messages with few, well known words and
 
 ### Core concept of Communication applied 
 
+```
+Speech is silver, silence is gold!
+```
+Why not have both?
+
 #### Brevity 
-It is the art of saying a lot with few words. One must alwys strive to be frugal on the number of words needed to convey a message - there's a lot that needs to be said by many people in a combat sitation.
+It is the art of saying a lot with few words. One must always strive to be frugal on the number of words needed to convey a message - there's a lot that needs to be said by many people in a combat sitation.
 
 #### Clarity
 In Addition to brevity, one must strive to be very clear in their language. This requires the usage of defined tactical language terms, brevity words, a clear and loud voice, and so forth. Articulation and repetition of critical statements is helpful as well.
@@ -188,15 +224,18 @@ Hearing someone say over the command net that there are "Enemy Infantry, bearing
 
 **If you are communicating across the radio, you initiate each transmission with who you're talking to, followed by your own callsign, wait for an acknowledgment, and then send your message.** 
 
-####
+#### A Basic Radio Transimssion
 
 |Step | Example|
 |:---:|---:|
-|**Start the call**|*Alpha Squad **for** Command, **how copy**? **Over***|
+|**Start the call**|*Alpha **for** Command, **how copy**? **Over***|
 |**Awnser the Call**|*Command **this is** Alpha, **Send it**! Over*|
 |**Message**|*Alpha, **be advised**. Recon spotted Hostile Infantry SquadSize ahead, Reference Farm, **how Copy**? Over*|
 |**Read Back**|*Alpha **Copies**, Hostile Infantry Ahead by Farm. Over*|
 |**Confirm Read Back and end of call**|_**Good Copy**, Command **Out**_|
+
+Not waiting for an acknowledgment often results in a repeated message being requred, since the recieving unit may have been to busy to listen to the message inteded for them.
+
 
 ### Procedure Words
 
@@ -207,7 +246,6 @@ Many of these terms will
 
 This simple procedure keeps the Radio Comms organized and allows for the various elements to know when they are specifically being talked to.
 
-Not waiting for an acknowledgment often results in a repeated message being requred, since the recieving unit may have been to busy to listen to the message inteded for them.
 
 
 ## Sources
