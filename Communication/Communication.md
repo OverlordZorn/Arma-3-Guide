@@ -2,6 +2,33 @@
 
 How to use the radios, their limits, and how to communicate properly to ensure your message reaches the destination and will be understood by the recipient.
 
+- [Communication](#communication)
+  - [The Technology of TFAR](#the-technology-of-tfar)
+    - [The Radio's](#the-radios)
+      - [Faction Encyrption](#faction-encyrption)
+      - [The Jamming of the Radio Signal](#the-jamming-of-the-radio-signal)
+      - [Signalloss due to the Environment and Terrain](#signalloss-due-to-the-environment-and-terrain)
+    - [How to Use the Radios](#how-to-use-the-radios)
+      - [Buttons](#buttons)
+      - [Channels](#channels)
+      - [Stereo Settings](#stereo-settings)
+      - [Additional Channel](#additional-channel)
+      - [Speaker](#speaker)
+  - [Radio Dicipline or how to communicate without causing headaches](#radio-dicipline-or-how-to-communicate-without-causing-headaches)
+    - [Communication Theroy](#communication-theroy)
+    - [Core concept of Communication applied](#core-concept-of-communication-applied)
+      - [Brevity](#brevity)
+      - [Clarity](#clarity)
+      - [Confirmation and read-back](#confirmation-and-read-back)
+      - [Alerting and identifying](#alerting-and-identifying)
+      - [Usage of standard operating procedures and tactical language](#usage-of-standard-operating-procedures-and-tactical-language)
+    - [Procedures & Rules](#procedures--rules)
+      - [Alert and Identification & How to Initiate a Call](#alert-and-identification--how-to-initiate-a-call)
+      - [A Basic Radio Transimssion](#a-basic-radio-transimssion)
+    - [Procedure Words](#procedure-words)
+  - [Sources](#sources)
+
+
 ## The Technology of TFAR
 
 Radio specifications and effecting factors.
@@ -89,6 +116,7 @@ To **Transmit** a message on your short range radio you hold **Caps Lock**.
 
 To **Transmit** a message on your long range Radio you hold **L CTRL + Caps Lock**.
 
+
 #### Stereo Settings
 
 With the **Stereo Settings** button you can change on which side of your headset the radio communication will be played.
@@ -129,6 +157,8 @@ On the other hand, being the squadleader or dedicated radio operator, it can be 
 
 ### Communication Theroy
 
+The most basic groundwork in communcation and how it applies to a Radio Conversation.
+
 ![Chart of Communication Theory](img/CommTheory.png)
 
 The **Sender** has information or order that he wants to deliver to the **Reciever**.
@@ -138,11 +168,13 @@ The sender has to **"Encode"** this information in such a way, that the reciever
 To ensure the receiver has processed the information in an sufficient way, he needs to **give feedback** to the sender so he can **confirm** the message has arrived completely. 
 
 
+To Ensure the Receiver has processed the Information in an sufficient way, he needs to **give Feedback** to the Sender so he can **Confirm** the Message has arrived as intended. 
+
 Radio communication can be disrupted by **Noise** during the transmission on the sending or recieving side.
 
 The message can also be disrupted by **Encoding** or **Using the wrong words** and making it difficult for the receiver to **Decode** the message.
 
-This can happen by using unfamiliar words or phrases. By using certain phrases in a wrong manner. By speaking to fast, or by speaking to much.
+This can happen by using unfamiliar words or phrases, By using certain phrases in a wrong manner, By speaking to fast, or by speaking to much.
 
 Interuptive radiochatter on the same network will just increase this disruption.
 
@@ -151,8 +183,13 @@ Therefore it is highly important to send messages with few, well known words and
 
 ### Core concept of Communication applied 
 
+```
+Speech is silver, silence is gold!
+```
+Why not have both?
+
 #### Brevity 
-It is the art of saying a lot with few words. One must alwys strive to be frugal on the number of words needed to convey a message - there's a lot that needs to be said by many people in a combat sitation.
+It is the art of saying a lot with few words. One must always strive to be frugal on the number of words needed to convey a message - there's a lot that needs to be said by many people in a combat sitation.
 
 #### Clarity
 In addition to brevity, one must strive to be very clear in their language. This requires the usage of defined tactical language terms, brevity words, a clear and loud voice, and so forth. Articulation and repetition of critical statements is helpful as well.
@@ -185,15 +222,18 @@ Hearing someone say over the command net "Enemy infantry, bearing 210!" is fairl
 
 **If you are communicating across the radio, you initiate each transmission with who you're talking to, followed by your own callsign, wait for an acknowledgment, and then send your message.** 
 
-####
+#### A Basic Radio Transimssion
 
 |Step | Example|
 |:---:|---:|
-|**Start the call**|*Alpha Squad **for** Command, **how copy**? **Over***|
+|**Start the call**|*Alpha **for** Command, **how copy**? **Over***|
 |**Awnser the Call**|*Command **this is** Alpha, **Send it**! Over*|
 |**Message**|*Alpha, **be advised**. Recon spotted hostile infantry SquadSize ahead, Reference farm, **how copy**? Over*|
 |**Read Back**|*Alpha **Copies**, Hostile infantry ahead by farm. Over*|
 |**Confirm Read Back and end of call**|_**Good Copy**, Command **Out**_|
+
+Not waiting for an acknowledgment often results in a repeated message being requred, since the recieving unit may have been to busy to listen to the message inteded for them.
+
 
 ### Procedure Words
 
@@ -204,7 +244,6 @@ Many of these terms will
 
 This simple procedure keeps the radio comms organized and allows for the various elements to know when they are specifically being talked to.
 
-Not waiting for an acknowledgment often results in a repeated message being requred, since the recieving unit may have been to busy to listen to the message inteded for them.
 
 
 ## Sources
