@@ -1,8 +1,6 @@
 # Communication
 
-How to Use the Radios and their Limits and how to Communicate Properly
-
-To ensure your message reaches the destination and will be understood by the recipient.
+How to use the radios, their limits, and how to communicate properly to ensure your message reaches the destination and will be understood by the recipient.
 
 - [Communication](#communication)
   - [The Technology of TFAR](#the-technology-of-tfar)
@@ -33,7 +31,7 @@ To ensure your message reaches the destination and will be understood by the rec
 
 ## The Technology of TFAR
 
-How to use and what can they do
+Radio specifications and effecting factors.
 
 
 ### The Radio's
@@ -41,38 +39,38 @@ How to use and what can they do
 |Side| Role | Radio Name | Frequency | Range | Image |
 |---|------|------------|-----------|-------|-------:|
 |Blue|Infantry | RF-7800S-TR | 30-512MHz | 2 km Range | ![Blue Rifleman Radio](img/blue_1_rf.jpg)|
-|Blue|SquadLeader | AN/PRC-152 | 30-512 MHz | 5 km Range | ![Blue Leader Radio](img/blue_2_sql.jpg)|
-|Blue| LongRange | RT-1523G | 30-87 MHz | 20 km as Backpack / 30 km when fixed to a Vehicle|![Blue LongRange Radio](img/blue_3_lr.jpg)|
+|Blue|Squad Leader | AN/PRC-152 | 30-512 MHz | 5 km Range | ![Blue Leader Radio](img/blue_2_sql.jpg)|
+|Blue| Long Range | RT-1523G | 30-87 MHz | 20 km as Backpack / 30 km when fixed to a Vehicle|![Blue LongRange Radio](img/blue_3_lr.jpg)|
 |Blue|Airborne | AN/ARC-210 | 30-87 Mhz | 40 km Range|![Blue Airborne Radio](img/blue-4-air-210.jpg)|
 |Red| Infantry | PNR-1000A | 30-512MHz | 2 km Range|![Red Rifleman Radio](img/red-1-rf.jpg)|
-|Red|SquadLeader | AN/PRC148-JEM | 30-512 MHz | 5 km Range|![Red Leader Radio](img/red-2-sql.jpg)|
-|Red|LongRange|MR3000|30-87 MHz|20 km as Backpack / 30 km when fixed to a Vehicle|![Red LongRange Radio](img/red-3-lr2.jpg)|
+|Red|Squad Leader | AN/PRC148-JEM | 30-512 MHz | 5 km Range|![Red Leader Radio](img/red-2-sql.jpg)|
+|Red|Long Range|MR3000|30-87 MHz|20 km as Backpack / 30 km when fixed to a Vehicle|![Red LongRange Radio](img/red-3-lr2.jpg)|
 |Red|Airborne|MR6000L|30-87 MHz|40 km|![Red Airborne Radio](img/red-4-air-164.jpg)|
 |Green|Infantry| RF-7800S-TR | 30-512MHz | 2 km Range|![Green Rifleman Radio](img/green-1-rf.jpg)|
-|Green|SquadLeader | AN/PRC-152 | 30-512 MHz | 5 km Range|![Green Leader Radio](img/green-2-sql.jpg)|
-|Green|LongRange| RT-1523G | 30-87 MHz | 20 km as Backpack / 30 km when fixed to a Vehicle|![Green LongRange Radio](img/green-3-lr.jpg)|
+|Green|Squad Leader | AN/PRC-152 | 30-512 MHz | 5 km Range|![Green Leader Radio](img/green-2-sql.jpg)|
+|Green|Long Range| RT-1523G | 30-87 MHz | 20 km as Backpack / 30 km when fixed to a Vehicle|![Green LongRange Radio](img/green-3-lr.jpg)|
 |Green|Airborne | AN/ARC-164 | 30-87 MHz | 40 km Range|![Green Airborne Radio](img/green-4-air-mr6000l.jpg)|
 
 
 #### Faction Encyrption
 
-A Side's/Faction's Radio can only Communicate with a Radio of the same Faction as they Data is encrypted.
-When you Pick up a Radio of an Hostile Player in an PvP Environment, you can Listen in on their Communication with their Radio. 
+A side's/faction's radio can only communicate with another radio of the same side/faction as their data is encrypted.
+When you pick up a radio of an hostile player in an PvP environment, you can listen in on their communication with their radio. 
 
 #### The Jamming of the Radio Signal
 
 Within Antistasi, we utilize a feature that comes with TFAR, which creates the simulation of an Jamming Signal.
 
-This means that, if an Radiotower is attached to an hostile Point of Interest, it will start to Jam the Radiosignal within a certain Range of it.
-The closer you get to that Radiotower, the worse the Signalstrengh and therefore the Range of your Radio will become.
+This means that, if a radiotower is attached to an hostile point of interest, it will start to jam the radio signal within a certain range of it.
+The closer you get to that radio tower, the worse the signal strengh and therefore the range of your radio will become.
 
-This affects Incoming as well as Outgoing Transmissions.
+This affects incoming as well as outgoing transmissions.
 
 #### Signalloss due to the Environment and Terrain
 
-Radio Signals work on a "Line of Sight" Basis.
+Radio signals work on a "line of sight" basis.
 
-Terrain like Mountains or being in a Valley will Block your Signal completely, Vegetation or Constructions can reduce and hinder your Signal Strength and Range.
+Terrain can block your signal completely, vegetation or constructions can reduce your signal strength and thus your range.
 
 
 ---
@@ -81,73 +79,74 @@ Terrain like Mountains or being in a Valley will Block your Signal completely, V
 
 #### Buttons
 
-You open your Radio with **L CTRL + P** for the Handheld Versions / Short Range Versions.
+You open your radio with **L CTRL + P** for the short range versions.
 
-You open your Radio with **L ALT + P** for the Backpack / Vehicle / Long Range Versions.
+You open your Radio with **L ALT + P** for the long range versions.
 
-This will show you the Panel of the Radio. Each Radio has Buttons which will Highlight their Function when you Hover over them.
+This will show you the panel of the radio. Each radio has buttons which will display their function in a tooltip when you hover over them.
 
 ![Example of Highlight](img/button-highlight.jpg)
 
 
-With these Buttons you can
+With these buttons you can
 
-- Change Channels
-- Change Volume (LMB/RMB)
-- Clear Frequency
-- Set Additional Channel
-- Set Frequency
-- Set Stereo Settings of the Headset
-- Turn Switch from Headset and Speaker
+- Change channels
+- Change volume (LMB/RMB)
+- Clear frequency
+- Set additional channel
+- Set frequency
+- Set stereo settings of the headset
+- Turn switch from headset and speaker
 
 #### Channels
 
-Every Radio can store 9 Channels. C1 - C9.
+Every radio can store 9 channels. C1 - C9.
 
-Each of this Channels has a Frequency assigend which you can change on the go.
+Each of this channels has a frequency assigned which you can change on the go.
 
 To Change a Frequency you 
-A) Hit **Clear Frequency** - Enter New Fequency - Confirm with **Set Frequency**
-B) Click on the Frequency itself in the Display - Enter New Frequency - Confirm with **Set Frequency**
+A) Hit **Clear Frequency** - Enter new fequency - Confirm with **Set Frequency**
+B) Click on the frequency itself in the display - Enter new frequency - Confirm with **Set Frequency**
 
-The Channel selected or seen in the display is the Main Channel.
+The channel selected or seen in the display is the main channel.
 
-The selected Main Channel is you will use to Transmit and Recieve Radio Traffic.
+The selected main channel is you will use to transmit and recieve radio traffic.
 
-To **Transmit** a message on your Short Range Radio you hold **Left Caps Look**.
+To **Transmit** a message on your short range radio you hold **Caps Lock**.
 
-To **Transmit** a message on your Long Range Radio you hold **L CTRL + Left Caps Look**.
+To **Transmit** a message on your long range Radio you hold **L CTRL + Caps Lock**.
+
 
 #### Stereo Settings
 
-With the **Stereo Settings** Button you can change on which side of your headset the Radio Communication will be played.
+With the **Stereo Settings** button you can change on which side of your headset the radio communication will be played.
 
-Both Sides, Left or Right.
+Both sides, left or right.
 
 **It is highly recommended to always seperate your radio communication in an consistant manner**
-For Example, I always have SquadNet or ShortRange on the Left Ear and CommandNet or LongRange on the Right Ear.
+For example, I always have short range on the left ear and long range on the right ear.
 
 
 #### Additional Channel
 
-Most Radios, with the exception of the Rifleman Radios, have  to option to also set up an Additional Channel.
+Most radios, with the exception of the rifleman radios, have  to option to also set up an additional channel.
 
-What you do is to set one of your channels as the Additional Channel. It will Show itself as A2: 123 instead of C2: 123.
+What you do is to set one of your channels as the additional channel. It will show itself as A2: 123 instead of C2: 123.
 
-You can also use the Stereo Settings for your Additional Channel to seperate Headphone Output.
+You can also use the stereo settings for your additional channel to seperate headphone output.
 
-Once you have set up the Additional Channel, you need to change your Main Channel to the desired Channel.
+Once you have set up the additional channel, you need to change your main channel to the desired channel.
 
 ![Example of a Radio set up with an Additional Channel](img/Headset.png)
 
 
 #### Speaker
 
-You can set your Radio to Output the Radio Communication with its built in Speaker. This means that people around you can hear what is being said on the Frequency.
+You can set your radio to output the radio communication with its built in speaker. This means that people around you can hear what is being said on the frequency.
 
-Doing this as a Rifleman in a squad is very bad, as the people around you are already on the same Radio, resulting in EarRape.
+Doing this as a rifleman in a squad is very bad, as the people around you are already on the same Radio, resulting in earrape.
 
-On the other hand, being the Squadleader or dedicated Radio Operator, it can be a reasonable decision to set your Long Range Radio on Speaker to keep people around you updated on what is going on in the Battle Field.
+On the other hand, being the squadleader or dedicated radio operator, it can be a reasonable decision to set your long range radio on speaker to keep people around you updated on what is going on in the battle field.
 
 ---
 ---
@@ -162,23 +161,22 @@ The most basic groundwork in communcation and how it applies to a Radio Conversa
 
 ![Chart of Communication Theory](img/CommTheory.png)
 
-The **Sender** has Information, an Order, ... he wants to deliver to the **Reciever**.
+The **Sender** has information or order that he wants to deliver to the **Reciever**.
 
-The Sender has to **"Encode"** this Information in such a way, that the Reciever, can **"Decode"** the **Message** and understand the Information as the Sender has intendend.
+The sender has to **"Encode"** this information in such a way, that the reciever, can **Decode** the message and understand the information as the sender has intendend.
 
-Encoding works by transforming the information you want to deliver by using Language, by forming a sentence to create the **Message**. 
+To ensure the receiver has processed the information in an sufficient way, he needs to **give feedback** to the sender so he can **confirm** the message has arrived completely. 
 
-The important part here is how you phrase this message, what words you are using. You need to ensure that the other side can decode your message as you intended.
 
 To Ensure the Receiver has processed the Information in an sufficient way, he needs to **give Feedback** to the Sender so he can **Confirm** the Message has arrived as intended. 
 
-Radio Communication can be disrupted by **Noice** during the Transmission. This can be a loud background on the Sending or Recieving Side, by a bad connection the message is being send on, someone talking over your message, or the reciever having to much chatter on their Squad Network.
+Radio communication can be disrupted by **Noise** during the transmission on the sending or recieving side.
 
-But the Message can also be disrupted by **Encoding** or **Using the wrong words** and making it difficult for the Receiver to **Decode** the Message.
+The message can also be disrupted by **Encoding** or **Using the wrong words** and making it difficult for the receiver to **Decode** the message.
 
 This can happen by using unfamiliar words or phrases, By using certain phrases in a wrong manner, By speaking to fast, or by speaking to much.
 
-Interuptive Radiochatter on the same Network will just increase this disruption.
+Interuptive radiochatter on the same network will just increase this disruption.
 
 Therefore it is highly important to send messages with few, well known words and phrases.
 
@@ -194,7 +192,7 @@ Why not have both?
 It is the art of saying a lot with few words. One must always strive to be frugal on the number of words needed to convey a message - there's a lot that needs to be said by many people in a combat sitation.
 
 #### Clarity
-In Addition to brevity, one must strive to be very clear in their language. This requires the usage of defined tactical language terms, brevity words, a clear and loud voice, and so forth. Articulation and repetition of critical statements is helpful as well.
+In addition to brevity, one must strive to be very clear in their language. This requires the usage of defined tactical language terms, brevity words, a clear and loud voice, and so forth. Articulation and repetition of critical statements is helpful as well.
 
 #### Confirmation and read-back
 It's important to confirm that you heard orders, so that leaders know that they are being understood. Additionally, it can be helpful to provide a read back of an order to confirm that you fully understand what is being asked of you. This way the person giving the orders can confirm that you heard them correctly.
@@ -218,9 +216,9 @@ Being familiar with the standard formats of SITREPs, CASREPs, contact reports, e
 
 #### Alert and Identification & How to Initiate a Call
 
-Regardless of what communication protocol you use, it is importaint tomaintain a certain radio procedure to keep things running smooth and organized.
+Regardless of what communication protocol you use, it is importaint to maintain a certain radio procedure to keep things running smooth and organized.
 
-Hearing someone say over the command net that there are "Enemy Infantry, bearing 210!" is fairly worthless for people on CommandNet.
+Hearing someone say over the command net "Enemy infantry, bearing 210!" is fairly worthless for people on CommandNet.
 
 **If you are communicating across the radio, you initiate each transmission with who you're talking to, followed by your own callsign, wait for an acknowledgment, and then send your message.** 
 
@@ -230,8 +228,8 @@ Hearing someone say over the command net that there are "Enemy Infantry, bearing
 |:---:|---:|
 |**Start the call**|*Alpha **for** Command, **how copy**? **Over***|
 |**Awnser the Call**|*Command **this is** Alpha, **Send it**! Over*|
-|**Message**|*Alpha, **be advised**. Recon spotted Hostile Infantry SquadSize ahead, Reference Farm, **how Copy**? Over*|
-|**Read Back**|*Alpha **Copies**, Hostile Infantry Ahead by Farm. Over*|
+|**Message**|*Alpha, **be advised**. Recon spotted hostile infantry SquadSize ahead, Reference farm, **how copy**? Over*|
+|**Read Back**|*Alpha **Copies**, Hostile infantry ahead by farm. Over*|
 |**Confirm Read Back and end of call**|_**Good Copy**, Command **Out**_|
 
 Not waiting for an acknowledgment often results in a repeated message being requred, since the recieving unit may have been to busy to listen to the message inteded for them.
@@ -244,7 +242,7 @@ These are the most common "Procedure Words", phrases with a predefined meaning a
 Many of these terms will 
 
 
-This simple procedure keeps the Radio Comms organized and allows for the various elements to know when they are specifically being talked to.
+This simple procedure keeps the radio comms organized and allows for the various elements to know when they are specifically being talked to.
 
 
 
