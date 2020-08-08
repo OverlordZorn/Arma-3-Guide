@@ -320,7 +320,7 @@ This simple procedure keeps the radio comms organized and allows for the various
 A Contact report consist of several key elements that must be presended in a specific order for it to be effective.
 
 #### 1 - Alert
-Typically the word `Contact`. This sould be the frist thing when you spot the enemy. Gvies heads up for everyone.
+Typically the word `Contact`. This sould be the first thing when you spot the enemy. Gives heads up for everyone.
 
 Can also include Warnings like `Close` when they could easily spot your or `Danger Close!` when they are about to step on you.
 
@@ -368,7 +368,7 @@ SITREP's are not intended to be incredibly in-depth, unless necessary. When a le
 An Ammo, Casualities and Equipment report
 
 * `Ammo` if you team is low on ammo, give details on it. This can be in general or more specific.
-* `Casualities` State your dead first, then wounded after that. Alternatively, an element can simply reply with how many uints are alive under their command (how many are "up"). Example: "Alpha 2, 3 up, one is wounded".
+* `Casualities` State your dead first, then wounded after that. Alternatively, an element can simply reply with how many units are alive under their command (how many are "up"). Example: "Alpha 2, 3 up, one is wounded".
 * `Equipment` If the team has lost any important equipment, for example Anti Tank weapons that have been expended or if an AR has been lost.
   
 
