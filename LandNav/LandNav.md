@@ -244,7 +244,9 @@ B) To Rotate the Map Tool, use **Left Alt Key** and **LMB** on anything outside 
 #### Degree
 A compass is divided into 360 degress and is the most common unit of measurement
 #### Mils
-Another unit of mesurement found on a compass, used mainly by militaries in artillery, tank and mortar gunnery. Circle devided into 64 Parts.
+Another unit of mesurement found on a compass, used mainly by militaries in artillery, tank and mortar gunnery. Circle devided into 64 Parts. 
+Milradians go from 0 to 6400 while the compass in this example only says 0 - 64, you'll have to add 00 to these numbers. 
+Due to the potential percision, Milradians are often used for Artillery or similar applications, to ensure accurate firemissions even over longer distances. 
 
 **Sidenote:** Some Mods' Compass will only update on the Map once you took it in your hand (Used with "K")
 
