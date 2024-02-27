@@ -272,7 +272,7 @@ Older Variant of the DAGR System:
 - **Waypoint Navigation System: Bearing to Waypoint and Distance** 
 
 #### MicroDAGR
-Older Variant of the DAGR System:
+Newer Variant of the DAGR System:
 - Current Position in a **10 Digit** Grid Coordnate
 - Altitude Above Sea Level
 - Current TravelSpeed in KpH
